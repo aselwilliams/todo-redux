@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.todo{
+  display: flex;
+  justify-content: space-between;
+  width: 640px;
+}
 
 .App-logo {
   height: 40vmin;
